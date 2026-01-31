@@ -27,6 +27,6 @@
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.7.1",
     "tailwind-bootstrap-grid": "^6.0.0",
-    "tailwindcss": "^4.1.17"
+    "tailwindcss": "^4.1.18"
   }
 }
