@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to a safe space to explore your disabled identity"
-  content: "You deserve to understand what you're facing as a person with a disability, and I'm here to help you navigate the challenging systems you've found yourself thrust into"
+  title: "Welcome to a safe space to understand your disabled identity"
+  content: "I'm here to help you navigate the beaucratic mazes you're likely to experience, including social security, healthcare, and financial impacts of disability in general"
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,31 +11,32 @@ banner:
 
 # Features - These are page sections.  Each section is split by title.
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Being or becoming disabled is overwhelming, and I'm here to help you regain control and thrive anyway!"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "You're dealing with a lot - your condition itself is just the beginning, and even that can feel like too much"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Often whatever happened that caused your disability was stressful or traumatic"
+      - "If you were working, your ability to work may be compromised"
+      - "You may suddenly find yourself needing medical care you never needed before, and therefore dealing with stresses related to both the medical care itself and the coverage your health insuance provides"
+      - "You may be wondering if you can keep working, and what happens if you can't"
+      - "You may also find that while people in your life are initially supportive, relationships around you may be damaged or friends my fade away as your illness or treatment process extends over time"
+      - "You may find that people treat you differently, often more negatively, and be trying to process why and if it's your fault(it's not)"
     button:
       enable: false
-      label: "Get Started Now"
+      label: ""
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Too often, the programs designed to help you are overly complicated and are built on presumptions that likely don't apply to you and your life."
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Especially with the stresses involved in becoming disabled or having a managable condition get worse, it helps to have somebody on your side, ready to help you recognize and solve the likely challenges and translate poorly worded questions into clear responses that demonstrate your needs or limitations"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Social Security has two disability programs for people too disabled to work: Social Security Disability Insurance and Supplemental Security Income. Too many people don't know which they applied for or which one they are covered by, even though they have substantially different rules and financial eligibility requirements."
+      - "The online application is the same for both programs, but you need to select which one(or both) you are applying for."
+      - "Because the application process requires detailed listings of your employment history, medical health history, and ability to care for oneself and function in society, it can be very emotionally painful to fill out"
+      - "I help clients anticipate these triggers, feel in control of the application process, and manage the stress involved in waiting for a response."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Available Coaching services"
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
