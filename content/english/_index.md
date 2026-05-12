@@ -122,38 +122,4 @@ features:
       label: ""
       link: ""
 ---
-Landing Page
-
-​
-
-Feeling overwhelmed or unsure about how to survive in our current society with a disability?  
-
-​
-
-I’m here to help!  
-
-​
-
-Whether you’re
-
- -trying to apply for Social Security, 
-
--struggling to stay employed, 
-
--considering if and how to go onto disability through your employer
-
--want to safely return to work while collecting disability benefits
-
--Explore social welfare programs that might help yourself or a loved one
-
--or otherwise are struggling with that intersection between disabilities and finances  
-
-​
-
-​
-
-I’m happy to be your information resource and help you find the best path to not only survive the challenge, but get you one step closer to thriving despite it. 
-
-​
-
 ​
