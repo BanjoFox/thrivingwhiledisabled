@@ -17,7 +17,7 @@ features:
     bulletpoints:
       - "Often whatever happened that caused your disability was stressful or traumatic"
       - "If you were working, your ability to work may be compromised"
-      - "You may suddenly find yourself needing medical care you never needed before, and therefore dealing with stresses related to both the medical care itself and the coverage your health insuance provides"
+      - "You may suddenly find yourself needing medical care you never needed before, and therefore dealing with stresses related to both the medical care itself and the coverage your health insurance provides"
       - "You may be wondering if you can keep working, and what happens if you can't"
       - "You may also find that while people in your life are initially supportive, relationships around you may be damaged or friends my fade away as your illness or treatment process extends over time"
       - "You may find that people treat you differently, often more negatively, and be trying to process why and if it's your fault(it's not)"
@@ -28,7 +28,7 @@ features:
 
   - title: "Too often, the programs designed to help you are overly complicated and are built on presumptions that likely don't apply to you and your life."
     image: "/images/service-2.png"
-    content: "Especially with the stresses involved in becoming disabled or having a managable condition get worse, it helps to have somebody on your side, ready to help you recognize and solve the likely challenges and translate poorly worded questions into clear responses that demonstrate your needs or limitations"
+    content: "Especially with the stresses involved in becoming disabled or having a manageable condition get worse, it helps to have somebody on your side, ready to help you recognize and solve the likely challenges and translate poorly worded questions into clear responses that demonstrate your needs or limitations"
     bulletpoints:
       - "Social Security has two disability programs for people too disabled to work: Social Security Disability Insurance and Supplemental Security Income. Too many people don't know which they applied for or which one they are covered by, even though they have substantially different rules and financial eligibility requirements."
       - "The online application is the same for both programs, but you need to select which one(or both) you are applying for."
@@ -52,3 +52,5 @@ features:
       label: ""
       link: ""
 ---
+
+Landing page content
