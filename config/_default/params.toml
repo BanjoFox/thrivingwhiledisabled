@@ -110,3 +110,17 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+
+
+
+# LLMs Configuration
+# LLMs module: https://github.com/gethugothemes/hugo-modules/tree/master/llms-txt
+[llms]
+# Set to false to disable /llms.txt generation
+generate_llms_txt = false
+# Set to false to disable /llms-full.txt generation
+generate_llms_full_txt = false
+# Limit to specific paths (e.g. "/about/", "/blog/*", "/blog/**"). Empty = all pages.
+include = []
+# Exclude specific paths (same wildcard formats as include). Include takes priority on conflicts.
+exclude = []
