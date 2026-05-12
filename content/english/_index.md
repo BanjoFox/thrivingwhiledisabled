@@ -2,9 +2,51 @@
 # Banner
 banner:
   title: Welcome to a safe space to understand your disabled identity
-  content: I'm here to help you navigate the beaucratic mazes you're likely to
-    experience, including social security, healthcare, and financial impacts of
-    disability in general
+  content: >-
+    Feeling overwhelmed or unsure about how to survive in our current society
+    with a disability?  
+
+
+    ​
+
+
+    I’m here to help!  
+
+
+    ​
+
+
+    Whether you’re
+
+
+     -trying to apply for Social Security, 
+
+
+    -struggling to stay employed, 
+
+
+    -considering if and how to go onto disability through your employer
+
+
+    -want to safely return to work while collecting disability benefits
+
+
+    -Explore social welfare programs that might help yourself or a loved one
+
+
+    -or otherwise are struggling with that intersection between disabilities and
+    finances  
+
+
+    ​
+
+
+    ​
+
+
+    I’m happy to be your information resource and help you find the best path to
+    not only survive the challenge, but get you one step closer to thriving
+    despite it. 
   image: /images/banner.png
   button:
     enable: true
