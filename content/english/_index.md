@@ -11,19 +11,19 @@ features:
     image: /images/service-1.png
     content: "Don't worry, I am here to help! I’m happy to be your information resource and help you find the best path to not only survive the challenge, but get you one step closer to thriving despite it.  Whether you are:"
     bulletpoints:
-      - Trying to apply for Social Security, 
-      - Struggling to stay employed, 
+      - Trying to apply for Social Security,
+      - Struggling to stay employed,
       - Considering if and how to go onto disability through your employer
       - Want to safely return to work while collecting disability benefits
       - Explore social welfare programs that might help yourself or a loved one
-      - or otherwise are struggling with that intersection between disabilities and finances 
+      - or otherwise are struggling with that intersection between disabilities and finances
     button:
       enable: true
       label: "Book My Services"
       link: /services
   - title: Reality of Disability and why I’m doing what I’m doing
     image: /images/service-1.png
-    content: 
+    content:
       "My name is Alison and I have been primarily supported by Social Security Disability Insurance since I was in my early 20’.  I am a business owner, got a master’s in Organizational Change Management in my late 30’s, and have been employed(very part time) through many of the intervening years.<br /><br />
 
       I have a ton of lived experience with the US social welfare system, Social Security, Medicare, Medicaid, and the struggle to get quality medical care. I’m also a very curious person who loves to understand systems and how they work, meaning I often would go down rabbit holes to better understand more about these systems whenever I was looking for basic answers or checking on rules that directly impacted me.<br /><br />
@@ -41,27 +41,23 @@ features:
       link: /services
   - title: How Do I Help?
     image: /images/service-2.png
-    content: 
+    content:
       "There are few detailed and reliable sources for disability-related information, and all too often, it’s spread out over a wide variety of places, under a variety of titles and categories. Starting conversations about disability-based benefits is often emotionally challenging and may feel unsafe to do with employers due to fears of discrimination.<br /><br />
 
-      I cut through this BS by hearing out your challenge and guiding you towards your most likely resources, or providing you with the basic information you need and where to access more details.<br /><br /> 
+      I cut through this BS by hearing out your challenge and guiding you towards your most likely resources, or providing you with the basic information you need and where to access more details.<br /><br />
 
-      Government resources in particular often describe the rules in confusing ways and many programs for poor or disabled people have very high rejection rates, which can be discouraging. I can help you set realistic expectations(such as how normal it is for applications to initially be rejected, or how long waits are likely to be) so you can protect your emotional state, which is often fragile when you’re in these kinds of stressful situations.<br /><br /> 
+      Government resources in particular often describe the rules in confusing ways and many programs for poor or disabled people have very high rejection rates, which can be discouraging. I can help you set realistic expectations(such as how normal it is for applications to initially be rejected, or how long waits are likely to be) so you can protect your emotional state, which is often fragile when you’re in these kinds of stressful situations.<br /><br />
 
       I have programs to help specific situations, offer one-off consulting sessions to help you evaluate your current situation, virtual masterclasses on related topics, as well as having published two books(one on disability-related bias, and the other on the intersection of disability and finance) to guide you through aspects of these challenges, and have blog posts on related topics."
     button:
       enable: true
       label: "Articles I've Written"
-      link: /blog   
+      link: /blog
   - title: Where do I start?
     image: /images/service-3.png
-    content: 
-      "It depends on your situation.<br /><br /> 
+    content: "It depends on your situation.<br /><br />
       - If you’re trying to gather basic information, you can start by searching for topics you’re concerned about in my.<br /><br />
-      - If you prefer to read information in print, my books are currently available to help guide you.<br /><br /> 
-      - If you’re specifically concerned about applying for social security’s disability coverage, I have a coaching program to walk you through the process.<br /><br /> 
-      - I also offer Disability Consulting - a one session discussion of the challenges you’re currently facing, where I provide information and perspective to help you find a workable solution." 
+      - If you prefer to read information in print, my books are currently available to help guide you.<br /><br />
+      - If you’re specifically concerned about applying for social security’s disability coverage, I have a coaching program to walk you through the process.<br /><br />
+      - I also offer Disability Consulting - a one session discussion of the challenges you’re currently facing, where I provide information and perspective to help you find a workable solution."
 ---
-
-
-What have clients experienced?  

@@ -18,33 +18,33 @@ weight = 3
 
 [[main]] # This is the top level dropdown menu
 weight = 4
-name = "Pages"
+name = "More"
 
 #-
 # Dropdown menu items
 # Listed alphabetically unless a weight is defined
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Authors"
 url = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Categories"
 url = "/categories"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Elements"
 url = "/elements"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "404 Page"
 url = "/404"
 
@@ -56,11 +56,6 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
-
-[[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 2
